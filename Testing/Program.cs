@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Mi nombre es Brian");
+            Console.WriteLine("Soy de Colima");
 
         }
     }
